@@ -7,7 +7,7 @@
 - Official sites that I got advantage of for this PJT
   - [PyTorch](https://wikidocs.net/52460)
   - [TensorFlowHub](https://www.tensorflow.org/hub)
-- Uploaded all the completed files and programs only, leaving out explaining the basic concepts and contents and so on that I studied in order to study fast
+- Uploaded all the completed files and programs only, leaving out all the explantions of basic concepts, contents and etc. in order to study fast
 
 ## License
 
